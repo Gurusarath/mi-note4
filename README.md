@@ -1,4 +1,4 @@
 # mi-note4
 this is for testing
 this for testing
-this for test
+this fot mi-note4 project
